@@ -19,6 +19,9 @@
 <p align="left">
 <a href="https://twitter.com/manishk60688911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manishk60688911" height="30" width="40" /></a>
 <a href="https://kaggle.com/manishkumar12342222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manishkumar12342222" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100087523595810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100087523595810" height="30" width="40" /></a>
+<a href="https://instagram.com/manish_kumar3338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manish_kumar3338" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/manish21_ug" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manish21_ug" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manish_kumar_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manish_kumar_2003" height="30" width="40" /></a>
 </p>
 
